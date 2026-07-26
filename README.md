@@ -1,7 +1,5 @@
-# Hi, I'm Yoruaki 👋
+# Hi there 👋
 
-<!-- markdownlint-disable-file MD033 -->
-
-Frontend Engineer<br>
-Badminton Player<br>
-Owner of [yoruaki.com](https://yoruaki.com/)
+- Frontend Engineer
+- Badminton Player
+- This repository also contains the source code for [yoruaki.com](https://yoruaki.com/)
